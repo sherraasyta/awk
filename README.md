@@ -21,9 +21,7 @@ Untuk menjalankan program awk yang panjang, maka akan lebih baik untuk menyimpan
 </p>
 
 ## DATA FILE PADA AWK
-Data file adalah file pada komputer yang menyimpan data untuk digunakan oleh aplikasi komputer atau sistem. Pada umumnya file ini tidak merujuk ke file yang berisi instruksi atau kode yang akan dieksekusi (biasanya disebut file program), atau file yang mendefinisikan operasi atau struktur dari suatu aplikasi atau sistem (termasuk file konfigurasi, file direktori, dll), tetapi khusus untuk informasi yang digunakan sebagai input, atau ditulis sebagai output oleh beberapa program perangkat lunak lainnya. Hal ini sangat berguna ketika mencari 
-
-kesalahan program.
+Data file adalah file pada komputer yang menyimpan data untuk digunakan oleh aplikasi komputer atau sistem. Pada umumnya file ini tidak merujuk ke file yang berisi instruksi atau kode yang akan dieksekusi (biasanya disebut file program), atau file yang mendefinisikan operasi atau struktur dari suatu aplikasi atau sistem (termasuk file konfigurasi, file direktori, dll), tetapi khusus untuk informasi yang digunakan sebagai input, atau ditulis sebagai output oleh beberapa program perangkat lunak lainnya. Hal ini sangat berguna ketika mencari kesalahan program.
 ## Percobaan 1: Contoh stuktur data file
 <p align="center">
   <img src="1.png" width="400" alt="Screenshot 1">
